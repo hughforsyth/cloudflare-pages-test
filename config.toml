@@ -1,4 +1,4 @@
 baseURL = '/'
 languageCode = 'en-gb'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site for CloudFlare'
 theme = "ananke"
