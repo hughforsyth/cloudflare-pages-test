@@ -2,3 +2,4 @@ baseURL = '/'
 languageCode = 'en-gb'
 title = 'My New Hugo Site for CloudFlare'
 theme = "ananke"
+googleAnalytics = 'G-CSR3PT6T35'
