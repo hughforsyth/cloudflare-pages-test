@@ -1,5 +1,5 @@
 baseURL = '/'
 languageCode = 'en-gb'
-title = 'My New Hugo Site for CloudFlare'
+title = 'My New Hugo Site'
 theme = "ananke"
 googleAnalytics = 'G-CSR3PT6T35'
