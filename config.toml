@@ -3,3 +3,4 @@ languageCode = 'en-gb'
 title = 'My New Hugo Site'
 theme = "ananke"
 googleAnalytics = 'G-CSR3PT6T35'
+featured_image = '/images/gohugo-default-sample-hero-image.jpg'
