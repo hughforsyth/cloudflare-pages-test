@@ -2,6 +2,7 @@
 title: "My Twitter Post"
 date: 2022-11-11T09:41:39Z
 draft: false
+tags: ["test-twitter-tag1"] 
 
 ---
 # Test of embedding Twitter posts
